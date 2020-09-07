@@ -1,4 +1,4 @@
-import cartReducer from './cart.reducer';
+//import cartReducer from './cart.reducer';
 
 export const addItemToCart = (cartItems, cartItemToAdd) => {
   const existingCartItem = cartItems.find(
